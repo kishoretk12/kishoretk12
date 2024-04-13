@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm KISHORE T K</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India. I work in Corporate company</h3>
 
-- 🔭 I’m currently working on [CI/CD](https://github.com/kishoretk12)
+- 🔭 I’m currently working on [DevOps CI/CD Deployments](https://github.com/kishoretk12)
+
+- 🌱 I’m currently learning **DevSecOps & Cloud DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kishoretk12](https://github.com/kishoretk12)
 
