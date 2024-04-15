@@ -16,15 +16,13 @@
 
 ## Certifications
 
-- **AWS Certified Cloud Practitioner**
-  - [Verify Certification](https://www.credly.com/badges/6c50635f-103d-42cd-b60a-cf25877bedd8/linked_in_profile)
-  <br />
-  <a href="https://www.credly.com/badges/6c50635f-103d-42cd-b60a-cf25877bedd8/linked_in_profile" target="_blank"><img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner" /></a>
-  
-- **AWS Certified SysOps Administrator - Associate**
-  - [Verify Certification](https://www.credly.com/badges/1853ae62-e0eb-4066-9a57-e3cd20978413/public_url)
-  <br />
-  <a href="https://www.credly.com/badges/1853ae62-e0eb-4066-9a57-e3cd20978413/public_url" target="_blank"><img src="https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified SysOps Administrator" /></a>
+### AWS Certified Cloud Practitioner
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/6c50635f-103d-42cd-b60a-cf25877bedd8/linked_in_profile)
+- [Verify Certification](https://www.credly.com/badges/6c50635f-103d-42cd-b60a-cf25877bedd8/linked_in_profile)
+
+### AWS Certified SysOps Administrator - Associate
+[![AWS Certified SysOps Administrator - Associate](https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/1853ae62-e0eb-4066-9a57-e3cd20978413/public_url)
+- [Verify Certification](https://www.credly.com/badges/1853ae62-e0eb-4066-9a57-e3cd20978413/public_url)
 
 ## AWS & DevOps Tools  
 
