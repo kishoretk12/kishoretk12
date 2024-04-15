@@ -13,6 +13,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/kishore-tk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
 </p>
+
 ## Certifications
 
 - **AWS Certified Cloud Practitioner**
@@ -26,6 +27,7 @@
   <a href="https://www.credly.com/badges/1853ae62-e0eb-4066-9a57-e3cd20978413/public_url" target="_blank"><img src="https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified SysOps Administrator" /></a>
 
 ## AWS & DevOps Tools  
+
 <div align="center">  
   <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px; border: 2px solid #232F3E; border-radius: 10px;" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="45" /></a>  
   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px; border: 2px solid #0089D6; border-radius: 10px;" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" height="45" /></a>  
