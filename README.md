@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=60&lines=DevOps+%7C+AWS+%7C+CI%2FCD+Automation;Learning+DevSecOps+%7C+Cloud+DevOps;Continuous+Deployment+Expert" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://github.com/kishoretk12/kishoretk12/blob/main/assets/banner.gif" alt="Banner Animation" style="width: 80%; border-radius: 20px;" />
-</div>
-
 ---
 
 - 🔭 **I’m currently working on:** [DevOps CI/CD Deployments](https://github.com/kishoretk12)
@@ -18,24 +14,49 @@
 
 ---
 
-<h2 align="center">🚀 My Skills & Certifications</h2>
+<h2 align="center">🌐 Connect with Me</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="45" />
-  <img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps" height="45" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="45" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" height="45" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" height="45" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SysOps" height="45" />
-  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" height="45" />
+  <a href="https://linkedin.com/in/kishore-tk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
+  <a href="mailto:kishore.kumar0728@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
 </div>
 
 ---
 
-<h2 align="center">🔥 GitHub Stats, Streaks & Languages</h2>
+<h2 align="center">🚀 Skills</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="45" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="45" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" height="45" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" height="45" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="45" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" height="45" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" height="45" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" height="45" />
+  <img src="https://img.shields.io/badge/Trivy-383838?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy" height="45" />
+  <img src="https://img.shields.io/badge/GitLab-CI%2FCD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" height="45" />
+</div>
+
+---
+
+<h2 align="center">🎓 Certifications</h2>
+
+<div align="center">
+  <p align="center"><strong>AWS Certified SysOps Administrator - Associate</strong></p>
+  <a href="https://www.credly.com/badges/1853ae62-e0eb-4066-9a57-e3cd20978413/public_url" target="_blank"><img src="https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SysOps Certification" height="45" /></a>
+  <p align="center">[Verify Certification](https://www.credly.com/badges/1853ae62-e0eb-4066-9a57-e3cd20978413/public_url)</p>
+</div>
+
+<div align="center">
+  <p align="center"><strong>AWS Certified Cloud Practitioner</strong></p>
+  <a href="https://www.credly.com/badges/6c50635f-103d-42cd-b60a-cf25877bedd8/linked_in_profile" target="_blank"><img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner Certification" height="45" /></a>
+  <p align="center">[Verify Certification](https://www.credly.com/badges/6c50635f-103d-42cd-b60a-cf25877bedd8/linked_in_profile)</p>
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kishoretk12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
@@ -49,27 +70,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kishoretk12&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" style="width: 70%;" />
-</div>
-
----
-
-<h2 align="center">📫 Connect with Me</h2>
-
-<div align="center">
-  <a href="https://linkedin.com/in/kishore-tk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
-  <a href="mailto:kishore.kumar0728@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
-</div>
-
----
-
-<h2 align="center">✨ DevOps Toolbox</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="45" />
-  <img src="https://img.shields.io/badge/Trivy-383838?style=for-the-badge&logo=docker&logoColor=white" alt="Trivy" height="45" />
-  <img src="https://img.shields.io/badge/GitLab-CI%2FCD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" height="45" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" height="45" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" height="45" />
 </div>
 
 ---
