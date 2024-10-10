@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm KISHORE T K</h1>
 <h2 align="center">🚀 DevOps Engineer | AWS & Cloud Enthusiast | CI/CD Specialist</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=60&lines=DevOps+%7C+AWS+%7C+CI%2FCD+Automation;Learning+DevSecOps+%7C+Cloud+DevOps;Continuous+Deployment+Expert" alt="Typing SVG" />
-</p>
-
 ---
 
 - 🔭 **I’m currently working on:** [DevOps CI/CD Deployments](https://github.com/kishoretk12)
