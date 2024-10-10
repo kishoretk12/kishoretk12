@@ -2,17 +2,18 @@
 <h3 align="center">A passionate DevOps Engineer from India working in a corporate company</h3>
 
 - 🔭 I’m currently working on [DevOps CI/CD Deployments](https://github.com/kishoretk12)
-
 - 🌱 I’m currently learning **DevSecOps & Cloud DevOps**
-
 - 💬 Ask me about **DevOps Tools**
-
 - 📫 How to reach me: [kishore.kumar0728@gmail.com](mailto:kishore.kumar0728@gmail.com)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kishore-tk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
 </p>
+
+---
 
 ## Certifications
 
@@ -24,15 +25,40 @@
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/6c50635f-103d-42cd-b60a-cf25877bedd8/linked_in_profile)
 - [Verify Certification](https://www.credly.com/badges/6c50635f-103d-42cd-b60a-cf25877bedd8/linked_in_profile)
 
+---
 
-## AWS & DevOps Tools  
+## 📊 GitHub Stats & Languages
+
+<p align="center">
+  <a href="https://github.com/kishoretk12">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kishoretk12&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Kishore's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoretk12&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔥 GitHub Streaks
+
+<p align="center">
+  <a href="https://github.com/kishoretk12">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishoretk12&theme=radical" alt="GitHub Streaks" />
+  </a>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/kishoretk12">
+    <img src="https://github-profile-trophy.vercel.app/?username=kishoretk12&theme=dracula&column=4&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+## AWS & DevOps Tools
 
 <div align="center">  
   <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px; border: 2px solid #232F3E; border-radius: 10px;" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="45" /></a>  
   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px; border: 2px solid #0089D6; border-radius: 10px;" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" height="45" /></a>  
-</div>
-
-<div align="center">  
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px; border: 2px solid #2496ED; border-radius: 10px;" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="45" /></a>  
   <a href="https://aquasecurity.github.io/trivy/" target="_blank"><img style="margin: 10px; border: 2px solid #383838; border-radius: 10px;" src="https://img.shields.io/badge/Trivy-383838?style=for-the-badge&logo=docker&logoColor=white" alt="Trivy" height="45" /></a>  
   <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px; border: 2px solid #623CE4; border-radius: 10px;" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" height="45" /></a>  
@@ -60,5 +86,3 @@
   <a href="https://grafana.com/" target="_blank"><img style="margin: 10px; border: 2px solid #F46800; border-radius: 10px;" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" height="45" /></a> 
   <a href="https://www.jfrog.com/" target="_blank"><img style="margin: 10px; border: 2px solid #41BF47; border-radius: 10px;" src="https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white" alt="JFrog" height="45" /></a>  
 </div>
-
-<br />
