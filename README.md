@@ -1,7 +1,11 @@
-<h1 align="center">Hey 👋, I'm KISHORE T K</h1>
-<h2 align="center">🚀 DevOps Engineer | AWS & Cloud Enthusiast | CI/CD Specialist</h2>
+<h1 align="center">👋 Hey, I'm <span style="color: #4CAF50;">KISHORE T K</span></h1>
+<h2 align="center">🚀 DevOps Engineer | Cloud Enthusiast | CI/CD Specialist</h2>
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="800" />
+</div>
 
 - 🔭 **I’m currently working on:** [DevOps CI/CD Deployments](https://github.com/kishoretk12)
 - 🌱 **I’m currently learning:** **DevSecOps & Cloud DevOps**
@@ -22,16 +26,7 @@
 <h2 align="center">🚀 Skills</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="45" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="45" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" height="45" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" height="45" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="45" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" height="45" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" height="45" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" height="45" />
-  <img src="https://img.shields.io/badge/Trivy-383838?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy" height="45" />
-  <img src="https://img.shields.io/badge/GitLab-CI%2FCD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" height="45" />
+  <img src="https://skills.thijs.gg/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana,gitlab" alt="Skills" />
 </div>
 
 ---
@@ -39,21 +34,15 @@
 <h2 align="center">🎓 Certifications</h2>
 
 <div align="center">
-  <p align="center"><strong>AWS Certified Solutions Architect – Associate</strong></p>
-  <a href="https://www.credly.com/badges/a0912eff-f76b-4a4e-b254-47e3fdd40227/public_url" target="_blank"><img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect Certification" height="45" /></a>
-  <p align="center">[Verify Certification](https://www.credly.com/badges/a0912eff-f76b-4a4e-b254-47e3fdd40227/public_url)</p>
-</div>
-
-<div align="center">
-  <p align="center"><strong>AWS Certified SysOps Administrator - Associate</strong></p>
-  <a href="https://www.credly.com/badges/1853ae62-e0eb-4066-9a57-e3cd20978413/public_url" target="_blank"><img src="https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SysOps Certification" height="45" /></a>
-  <p align="center">[Verify Certification](https://www.credly.com/badges/1853ae62-e0eb-4066-9a57-e3cd20978413/public_url)</p>
-</div>
-
-<div align="center">
-  <p align="center"><strong>AWS Certified Cloud Practitioner</strong></p>
-  <a href="https://www.credly.com/badges/6c50635f-103d-42cd-b60a-cf25877bedd8/linked_in_profile" target="_blank"><img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner Certification" height="45" /></a>
-  <p align="center">[Verify Certification](https://www.credly.com/badges/6c50635f-103d-42cd-b60a-cf25877bedd8/linked_in_profile)</p>
+  <a href="https://www.credly.com/badges/a0912eff-f76b-4a4e-b254-47e3fdd40227/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect" height="45" />
+  </a>
+  <a href="https://www.credly.com/badges/1853ae62-e0eb-4066-9a57-e3cd20978413/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SysOps" height="45" />
+  </a>
+  <a href="https://www.credly.com/badges/6c50635f-103d-42cd-b60a-cf25877bedd8/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" height="45" />
+  </a>
 </div>
 
 ---
@@ -61,9 +50,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishoretk12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoretk12&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishoretk12&theme=tokyonight" alt="GitHub Streaks" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kishoretk12&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoretk12&layout=compact&theme=radical" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishoretk12&theme=radical" alt="GitHub Streaks" height="180em" />
 </div>
 
 ---
@@ -76,6 +65,14 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/kishoretk12/kishoretk12/blob/main/assets/footer.gif" alt="Footer Animation" style="width: 80%; border-radius: 20px;" />
-</p>
+<h2 align="center">🎬 Fun Animations</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kishoretk12/kishoretk12/main/assets/animation.gif" alt="Custom Animation" style="width: 70%;" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kishoretk12/kishoretk12/main/assets/footer.gif" alt="Footer Animation" style="width: 80%; border-radius: 20px;" />
+</div>
