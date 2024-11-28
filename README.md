@@ -39,6 +39,12 @@
 <h2 align="center">🎓 Certifications</h2>
 
 <div align="center">
+  <p align="center"><strong>AWS Certified Solutions Architect – Associate</strong></p>
+  <a href="https://www.credly.com/badges/a0912eff-f76b-4a4e-b254-47e3fdd40227/public_url" target="_blank"><img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect Certification" height="45" /></a>
+  <p align="center">[Verify Certification](https://www.credly.com/badges/a0912eff-f76b-4a4e-b254-47e3fdd40227/public_url)</p>
+</div>
+
+<div align="center">
   <p align="center"><strong>AWS Certified SysOps Administrator - Associate</strong></p>
   <a href="https://www.credly.com/badges/1853ae62-e0eb-4066-9a57-e3cd20978413/public_url" target="_blank"><img src="https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SysOps Certification" height="45" /></a>
   <p align="center">[Verify Certification](https://www.credly.com/badges/1853ae62-e0eb-4066-9a57-e3cd20978413/public_url)</p>
