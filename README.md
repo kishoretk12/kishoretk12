@@ -11,6 +11,21 @@
 
 ---
 
+### 🌐 Let's Connect!
+<div align="center">
+  <a href="https://linkedin.com/in/kishore-tk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+  <a href="mailto:kishore.kumar0728@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a>
+  <a href="https://github.com/kishoretk12" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
+  </a>
+</div>
+
+---
+
 ### 🌟 Skills
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="30" />
@@ -43,19 +58,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kishoretk12&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishoretk12&theme=tokyonight&hide_border=true" height="180em" />
-</div>
-
----
-
-### 🌐 Let's Connect!
-<div align="center">
-  <a href="https://linkedin.com/in/kishore-tk" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-  </a>
-  <a href="mailto:kishore.kumar0728@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-  </a>
-  <a href="https://github.com/kishoretk12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
-  </a>
 </div>
